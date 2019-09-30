@@ -1,0 +1,65 @@
+ Description of Cybersecurity Risk Management Program
+
+...Nature of Information at Risk...
+The principal types of sensitive information created, collected, transmitted, used, or stored by the entity
+
+The Company creates, obtains, distributes, uses, and stores a wide variety of information in its operations. In addition to information common to the operation of entities similar to the entity, such as regulatory compliance information and personnel records, the Company uses the following information:
+
+• Financial information, which is used for both internal and external reporting purposes. Internal financial information and external financial information, prior to publication, is considered
+confidential and is treated as insider information.
+• Confidential sales information, including customer lists, confidential wholesale pricing information, and order information
+• Payment card information used in online retail and wholesale transactions, including cardholder names and card numbers. This information may be retained for customer convenience on XYZ systems for ease of ordering
+• Online retail customer profile information used to provide customers with a personalized lifestyle experience
+• Confidential product information including product specifications, new design ideas, and branding strategies
+• Proprietary information provided by business partners, including software house data, sales and pricing information, and licensed designs
+• Confidential employee information
+
+
+
+
+...Cybersecurity Risk Management Program Objectives (Cybersecurity Objectives)...
+#2: The entity’s principal cybersecurity risk management program objectives (cybersecurity objectives) related to availability, confidentiality, integrity of data, and integrity of processing
+
+
+    Under the direction of the our Cybersecurity team, management establishes the objectives of the
+Company. Based on these objectives, management also establishes specific objectives for its
+cybersecurity risk management program. Because substantially all Company operations involve the use
+of IT, the Company makes no distinction between information security and cybersecurity.
+ArisTech software house’s cybersecurity objectives are the following:
+
+    ..Availability
+    Enabling timely, reliable, and continuous access to and use of information and systems to support operations and to
+        • provide
+            – online web retail availability 24-hours a day year-round
+            – customer experiences related to system response and dropped transactions meeting benchmarks established by management
+            – software house system availability during scheduled shifts
+            – wholesale online, field sales support, and customer service center systems availability as committed
+            – accurate product progress and availability information
+        • comply with applicable laws and regulations
+        • safeguard assets
+
+    ..Confidentiality
+    Protecting information from unauthorized access and disclosure, including means for protecting proprietary information and personal information subject to privacy requirements, to safeguard
+        • employee and customer information, including credit card information, in accordance with laws, regulations, and card brand requirements
+        • confidential corporate data related to sales and financial reporting
+        • confidential business transactions related to the information of business partners and others
+        • the intellectual property of the Company, its business partners, and others
+
+    ..Integrity of Data
+    Guarding against improper capture, modification or destruction of information to support
+        • the preparation of reliable
+            – financial and nonfinancial information for external reporting purposes
+            – information for internal use
+        • nonrepudiation and authenticity of transactions from online systems
+        • the completeness, accuracy, and timeliness of software house, and information processing
+        • management, in holding employees, vendor and business partner employees, and customers accountable for their actions
+        • the storage, processing, and disclosure of information, including personal and third-party information
+
+    ..Integrity of Processing
+    Guarding against improper use, modification, or destruction of systems in order to support
+        • the accuracy, completeness, and reliability of product and product processing
+        • the software house progress to product specifications
+        • the efficient operation of production
+        • the safeguarding of the life and health of employees in production facilities
+
+    Guarding against the improper use or misuse of processing capabilities that that could be used to impair the security or operations of external parties
